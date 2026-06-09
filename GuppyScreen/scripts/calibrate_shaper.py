@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/share/klippy-env/bin/python
 ###!/usr/data/rootfs/usr/bin/python3
 # Shaper auto-calibration script
 #
