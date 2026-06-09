@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/share/klippy-env/bin/python
 
 #################################################
 ######## CoreXY BELTS CALIBRATION SCRIPT ########
